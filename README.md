@@ -44,9 +44,10 @@ blood-bond-platform/
 
 ## 📖 Documentation
 
-- [Project Proposal](./docs/proposal.pdf)  
-- [Case Study](./docs/case-study.pdf)  
-- [ERD Diagram](./docs/erd.png)  
+- [Project Proposal](./docs/Project%20Proposal.pdf)  
+- [Case Study](./docs/Case%20study.pdf)
+- [Use Case Diagram](./docs/Blood-Bond-Platform-Use%20Case%20Diagram.png)
+- [ERD Diagram](./docs/ERD.jpeg)  
 
 ---
 
@@ -60,4 +61,5 @@ blood-bond-platform/
 -  [Doha Emad](https://github.com/Doha-2004)
 -  [Rawan Sotohy](https://github.com/Rawan-Sotohy)
 -  [Mariam Mohamed](https://github.com/MariamMoBarakat)
+
 
